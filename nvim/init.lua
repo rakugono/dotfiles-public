@@ -26,7 +26,7 @@ if is_win then
     require('win')  -- TODO: 動作チェックする
 end
 
---- ./lua/base.luaを読み込む ---
+-- ./lua/base.luaを読み込む
 
 -- OSのクリップボードを共有
 vim.opt.clipboard:append{'unnamedplus'}
@@ -73,7 +73,7 @@ vim.opt.termguicolors = true
 
 
 
---- ./lua/keymap.luaを読み込む ---
+-- ./lua/keymap.luaを読み込む
 
 local keymap = vim.keymap
 -- option: n = normal, nx = normal + visual
