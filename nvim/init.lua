@@ -1,7 +1,7 @@
 require('base')
-require('hilights')
+-- require('hilights')
 require('keymap')
-require('plugins')
+-- require('plugins')
 
 
 -- osを判別する関数を作成
