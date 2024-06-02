@@ -1,4 +1,4 @@
-require('base')
+-- require('base')
 -- require('hilights')
 require('keymap')
 -- require('plugins')
